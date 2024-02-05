@@ -25,17 +25,25 @@ while (runCalcs)
     Console.Write($"Area: {choice.CalculateArea()}\n");
 
     //check & see if user would like to circle to grow
-    Console.WriteLine("Would you like the circle to grow? y/n");
-    string growChoice = Console.ReadLine().ToLower().Trim();
-    if (growChoice == "y")
+    while (true)
     {
-        choice.Grow();
+        Console.WriteLine("Would you like the circle to grow? y/n");
+        string growChoice = Console.ReadLine().ToLower().Trim();
+        if (growChoice == "y")
+        {
+            choice.Grow();
+            break;
+        }
+        else if (growChoice == "n")
+        {
+            Console.WriteLine($"Your circle's radius is {choice.GetRadius()}");
+            Console.WriteLine("Goodbye!");
+            runCalcs = false;
+            break;
+        }
+        else
+        {
+            Console.WriteLine("Invalid. Try Again.");
+        }
     }
-    else
-    {
-        Console.WriteLine($"Your circle's radius is {choice.GetRadius()}");
-        Console.WriteLine("Goodbye!");
-        break;
-    }
-
 }
