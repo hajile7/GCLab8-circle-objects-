@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GCLab8  (circle objects)/1.0.0": {
+        "runtime": {
+          "GCLab8  (circle objects).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GCLab8  (circle objects)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

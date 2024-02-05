@@ -1,0 +1,14 @@
+C:\Users\elire\source\repos\GC Labs\GCLab8  (circle objects)\GCLab8  (circle objects)\bin\Debug\net8.0\GCLab8  (circle objects).exe
+C:\Users\elire\source\repos\GC Labs\GCLab8  (circle objects)\GCLab8  (circle objects)\bin\Debug\net8.0\GCLab8  (circle objects).deps.json
+C:\Users\elire\source\repos\GC Labs\GCLab8  (circle objects)\GCLab8  (circle objects)\bin\Debug\net8.0\GCLab8  (circle objects).runtimeconfig.json
+C:\Users\elire\source\repos\GC Labs\GCLab8  (circle objects)\GCLab8  (circle objects)\bin\Debug\net8.0\GCLab8  (circle objects).dll
+C:\Users\elire\source\repos\GC Labs\GCLab8  (circle objects)\GCLab8  (circle objects)\bin\Debug\net8.0\GCLab8  (circle objects).pdb
+C:\Users\elire\source\repos\GC Labs\GCLab8  (circle objects)\GCLab8  (circle objects)\obj\Debug\net8.0\GCLab8  (circle objects).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elire\source\repos\GC Labs\GCLab8  (circle objects)\GCLab8  (circle objects)\obj\Debug\net8.0\GCLab8  (circle objects).AssemblyInfoInputs.cache
+C:\Users\elire\source\repos\GC Labs\GCLab8  (circle objects)\GCLab8  (circle objects)\obj\Debug\net8.0\GCLab8  (circle objects).AssemblyInfo.cs
+C:\Users\elire\source\repos\GC Labs\GCLab8  (circle objects)\GCLab8  (circle objects)\obj\Debug\net8.0\GCLab8  (circle objects).csproj.CoreCompileInputs.cache
+C:\Users\elire\source\repos\GC Labs\GCLab8  (circle objects)\GCLab8  (circle objects)\obj\Debug\net8.0\GCLab8  (circle objects).dll
+C:\Users\elire\source\repos\GC Labs\GCLab8  (circle objects)\GCLab8  (circle objects)\obj\Debug\net8.0\refint\GCLab8  (circle objects).dll
+C:\Users\elire\source\repos\GC Labs\GCLab8  (circle objects)\GCLab8  (circle objects)\obj\Debug\net8.0\GCLab8  (circle objects).pdb
+C:\Users\elire\source\repos\GC Labs\GCLab8  (circle objects)\GCLab8  (circle objects)\obj\Debug\net8.0\GCLab8  (circle objects).genruntimeconfig.cache
+C:\Users\elire\source\repos\GC Labs\GCLab8  (circle objects)\GCLab8  (circle objects)\obj\Debug\net8.0\ref\GCLab8  (circle objects).dll
