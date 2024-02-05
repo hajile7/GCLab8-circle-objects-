@@ -12,3 +12,4 @@ C:\Users\elire\source\repos\GC Labs\GCLab8  (circle objects)\GCLab8  (circle obj
 C:\Users\elire\source\repos\GC Labs\GCLab8  (circle objects)\GCLab8  (circle objects)\obj\Debug\net8.0\GCLab8  (circle objects).pdb
 C:\Users\elire\source\repos\GC Labs\GCLab8  (circle objects)\GCLab8  (circle objects)\obj\Debug\net8.0\GCLab8  (circle objects).genruntimeconfig.cache
 C:\Users\elire\source\repos\GC Labs\GCLab8  (circle objects)\GCLab8  (circle objects)\obj\Debug\net8.0\ref\GCLab8  (circle objects).dll
+C:\Users\elire\source\repos\GC Labs\GCLab8  (circle objects)\GCLab8  (circle objects)\obj\Debug\net8.0\GCLab8  (circle objects).sourcelink.json

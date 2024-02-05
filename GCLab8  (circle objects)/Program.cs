@@ -5,16 +5,12 @@ Console.WriteLine("Welcome to the Circle Tester!");
 
 //get user input + validate it
 Console.Write("Enter radius: ");
-double tempRadius = 0;
-try
+double tempRadius = -1;
+while(!double.TryParse(Console.ReadLine(), out tempRadius) || tempRadius <= 0)
 {
-    tempRadius = double.Parse(Console.ReadLine().Trim());
+    Console.WriteLine("Invalid input. Please try again. Number must be greater than 0.");
 }
-catch (Exception)
-{
-   Console.WriteLine("Invalid, please try again");
-    tempRadius = double.Parse(Console.ReadLine().Trim());
-}
+
 
 Circle choice = new Circle(tempRadius);
 

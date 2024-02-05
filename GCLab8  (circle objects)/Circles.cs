@@ -9,7 +9,7 @@ namespace GCLab8___circle_objects_
     internal class Circle
     {
         //properties
-        private double radius;
+        private double radius { get; set; }
 
         //constructor
         public Circle(double _radius)
